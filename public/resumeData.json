@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Pooja Patil",
+    "occupation": "Front-end developer",
+    "description": "Specialized in developing Web and mobile applications. #loveFrontend",
+    "image": "Profile-Photo.jfif",
+    "bio": "My name is Pooja, I'm a Front-end Developer. Currently, I am training to learn new technologies and open for job opportunities. I worked for VMware, GE and Accenture in my career.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "pooja.h.patil90@gmail.com",
+    "phone": "+1 (925) 325-6548",
+    "address": {
+      "street": "5164 Golden Road",
+      "city": "Pleasanton",
+      "workCity": "Bangalore",
+      "state": "California",
+      "zip": "94566"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "PoojaPatil_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100002089515421",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pooja-h-patil/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pooja.h.patil/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/poojahpatil90",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Visvesvaraya Technological University(VTU)",
+        "degree": "Bachelor of Engineering in Information Science",
+        "graduated": "June 2012",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "VMware",
+        "title": "Member of Technical Staff III",
+        "years": "Sep 2018 - Jan 2020",
+        "description": "Built the Front-end for an IOT product."
+      },
+      {
+        "company": "General Electric(GE)",
+        "title": "Software Engineer",
+        "years": "Jan 2017 - Sep 2018",
+        "description": "Involved in building the Front-end for GE Power and Healthcare."
+      },
+      {
+        "company": "Accenture",
+        "title": "Software Engineer",
+        "years": "Jan 2013 - Jan 2017",
+        "description": "Worked on developing Mobile and Web applications"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "D3.js",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Unit Testing",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with React and Firebase",
+        "image": "amazon-clone.PNG",
+        "url": "https://clone-180d0.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Quality of the deliverable was commendable. The entire scrum team acknowledged the fact that Pooja's delivery was of highest quality. One other notable thing worth mentioning is also the appreciation by our System architect on the timeliness and the quality of the deliverables. Awarded for the same during the month of Feb(2016) for her relentless and focused work. She also helped the new team members and interns in mentoring them and ensured that they deliver better.",
+        "user": "Sharath Kalyan"
+      }
+    ]
+  }
+}
